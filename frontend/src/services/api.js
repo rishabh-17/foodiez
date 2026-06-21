@@ -1,4 +1,4 @@
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5001/api/v1';
+const API_URL = import.meta.env.VITE_API_URL || 'https://foodiez-1lnq.onrender.com/api/v1';
 
 import axios from 'axios';
 
